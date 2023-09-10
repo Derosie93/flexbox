@@ -147,8 +147,8 @@ body{
     width: 78px;
     height: 78px;
     background-color: darkred;
-    margin: 0 20px 0 20px;
     border-radius: 4px;
+    margin: 20px;
 }
 
 .flexbox-item5-1{
